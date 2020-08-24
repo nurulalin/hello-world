@@ -1,2 +1,2 @@
 # hello-world
-SCM Try
+Trying this file for SCM lab1
